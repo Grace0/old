@@ -2,6 +2,7 @@ h1 {
 font-family: 'Lora', serif;
 text-align: center;
 color: #2B2B2B;
+margin-bottom: 0;
 }
 
 img {
@@ -10,4 +11,24 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 100;
+  padding: 0;
+  border: 0;
+}
+
+.navbar {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 20px;
+  color: #808080;
+}
+
+.navbar a:hover {
+  color: purple;
 }
