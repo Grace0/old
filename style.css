@@ -37,12 +37,21 @@ p {
   padding: 20px;
 }
 
+.navbar b {
+  padding: 20px;
+  font-weight: normal;
+}
+
 .navbar a:hover {
-  color: purple;
+  color: #BA433E;
+}
+
+.navbar b:hover {
+  color: #5EB168;
 }
 
 .active {
-  color: purple;
+  text-decoration: overline;
 }
 
 body {
@@ -52,5 +61,10 @@ body {
 
 a {
   color: black;
+  text-decoration: none;
+}
+
+b {
+  color:black;
   text-decoration: none;
 }
