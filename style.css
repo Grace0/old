@@ -2,6 +2,7 @@ h1 {
   text-align: center;
   color: #2B2B2B;
   margin-bottom: 0;
+  font-family: 'Lora', sans-serif;
 }
 
 h2 {
@@ -9,6 +10,8 @@ h2 {
   text-decoration: none;
   text-align: center;
   font-size: 15px;
+  font-family: 'Lora', sans-serif;
+  font-weight: bold;
 }
 
 img {
@@ -47,7 +50,7 @@ p {
 }
 
 .navbar b:hover {
-  color: #5EB168;
+  color: #BA433E;
 }
 
 .active {
@@ -67,4 +70,13 @@ a {
 b {
   color:black;
   text-decoration: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
 }
