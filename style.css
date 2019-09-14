@@ -2,7 +2,8 @@ h1 {
   text-align: center;
   color: #2B2B2B;
   margin-bottom: 0;
-  font-family: 'Lora', sans-serif;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
 }
 
 h2 {
@@ -32,7 +33,7 @@ img {
 p {
   text-align: center;
   margin-top: 0;
-  margin-bottom: 100;
+  margin-bottom: 0;
   padding: 0;
   border: 0;
 }
@@ -66,7 +67,7 @@ p {
 
 body {
   background-color: #FDF2E5;
-  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Inconsolata', monospace;
 }
 
 a {
